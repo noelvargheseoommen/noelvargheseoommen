@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @noelvargheseoommen
 - 👀 I’m interested in music,art,coding
-- 🌱 I’m currently learning gam dev, blockchain, front end, back end
+- 🌱 I’m currently learning CyberSecurity
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email: noel.oommen@gmail.com
 
